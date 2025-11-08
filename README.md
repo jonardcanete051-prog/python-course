@@ -54,6 +54,7 @@
 50. Implement a basic calculator using functions.
 
 🧩 Advanced (51–75): OOP, Modules, and Error Handling
+
 51. Create a class Rectangle with methods to calculate area and perimeter.
 52. Create a BankAccount class (deposit, withdraw, balance).
 53. Implement inheritance (e.g., Animal → Dog, Cat).
@@ -81,6 +82,7 @@
 75. Implement a text-based student management system using OOP.
 
 🚀 Pro (76–100): APIs, Databases, and Automation
+
 76. Connect to a MySQL or SQLite database using Python.
 77. Create a table and insert records using SQL queries.
 78. Fetch and display all rows from a table.
