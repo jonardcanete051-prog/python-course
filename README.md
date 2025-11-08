@@ -26,6 +26,7 @@
 25. Remove spaces from a string.
 
 ⚙️ Intermediate (26–50): Strings, Lists, Functions, and Files
+
 26. Reverse a string.
 27. Check if a string is a palindrome.
 28. Sort words alphabetically in a sentence.
