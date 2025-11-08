@@ -108,4 +108,5 @@
 98. Deploy a Flask app to a free platform (e.g., Render).
 
 99.Automate daily tasks using Python scripts (e.g., backup or cleanup).
+
 100. Build a complete mini-project: Task Manager App with GUI + Database.
